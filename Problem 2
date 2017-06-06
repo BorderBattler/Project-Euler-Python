@@ -8,4 +8,5 @@ while z < 4000000:
 	z = y + x 
 	y = x
 	x = z 
-	print(total)
+	
+print(total)
